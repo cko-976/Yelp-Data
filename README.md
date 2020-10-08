@@ -20,7 +20,7 @@ Other people have done work to analyze reviews from Yelp. There are tutorials sh
 ## Table of Contents
 [Code](https://github.com/cko-976/Yelp-Data/blob/main/Code%20-%20API.ipynb)
 
-[Technical Report](
+[Technical Report](https://github.com/cko-976/Yelp-Data/blob/main/Technical%20Report.ipynb)
 
 ## Software Requirements
 
