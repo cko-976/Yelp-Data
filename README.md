@@ -28,7 +28,7 @@ Other people have done work to analyze reviews from Yelp. There are tutorials sh
 
 ## Data
 
-The data is obtained using the [Yelp API](https://www.yelp.com/developers/documentation/v3).It has 210 rows and 16 columns. It is data on Italian restaurants in New York City. 
+The data is obtained using the [Yelp API](https://www.yelp.com/developers/documentation/v3). The data is on Italian restaurants in New York City. The data has 210 rows and 16 columns.
 
 The Yelp API requires authentication to use its API. To obtain the authentication one has to open an account with Yelp. For the Business Search Endpoint the data has a limit of 50, if no limit is set it defaults to 20 businesses. You can get a maximum of 1000. 
 
