@@ -24,6 +24,7 @@ Other people have done work to analyze reviews from Yelp. There are tutorials sh
 ## Software Requirements
 
   **Libraries needed for Yelp API** Requests, Numpy, Pandas, JSON, Configparser
+  
   **Libraries needed for data analysis** Pandas, Numpy, Matplotlib 
 
 ## Data
