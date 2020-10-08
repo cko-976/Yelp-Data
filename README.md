@@ -34,7 +34,7 @@ The data is obtained using the [Yelp API](https://www.yelp.com/developers/docume
 
 The Yelp API requires authentication to use its API. To obtain the authentication one has to open an account with Yelp. For the Business Search Endpoint the data has a limit of 50, if no limit is set it defaults to 20 businesses. You can get a maximum of 1000. 
 
-The data is saved in this repository.
+The data is saved in this repository. [Data](https://github.com/cko-976/Yelp-Data/tree/main/data)
 
 ## Resources:
 - [Wikipedia](https://en.wikipedia.org/wiki/Central_Park)
