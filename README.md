@@ -18,8 +18,9 @@ This study will be useful for anyone wanting to use the Yelp API and then analyz
 Other people have done work to analyze reviews from Yelp. There are tutorials showing how to analyze sentiment comments, for example [Python Sentiment Analysis](https://www.youtube.com/watch?v=0j3l5GciFIo). Other tutorials on how to webscrape using Yelp API, for example [Webscraping using Requests](https://www.youtube.com/watch?v=vgHwPPRM5JE) 
 
 ## Table of Contents
-[Code]
-[Technical Report]
+[Code](https://github.com/cko-976/Yelp-Data/blob/main/Code%20-%20API.ipynb)
+
+[Technical Report](
 
 ## Software Requirements
 
