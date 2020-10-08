@@ -23,8 +23,8 @@ Other people have done work to analyze reviews from Yelp. There are tutorials sh
 
 ## Software Requirements
 
-**Libraries needed for Yelp API** Requests, Numpy, Pandas, JSON, Configparser
-**Libraries needed for data analysis** Pandas, Numpy, Matplotlib 
+  **Libraries needed for Yelp API** Requests, Numpy, Pandas, JSON, Configparser
+  **Libraries needed for data analysis** Pandas, Numpy, Matplotlib 
 
 ## Data
 
@@ -35,8 +35,8 @@ The Yelp API requires authentication to use its API. To obtain the authenticatio
 The data is saved in this repository.
 
 ## Resources:
-[Wikipedia](https://en.wikipedia.org/wiki/Central_Park)
-Kazil J. and Jarmul K, Data Wrangling with Python, Tips and Tools to Make Your Life Easier
-[Yelp](https://www.yelp.com/developers/documentation/v3)
-[Webscraping with Requests]((https://www.youtube.com/watch?v=vgHwPPRM5JE)
-[Config files](https://www.youtube.com/watch?v=Gdw0-QGq-z0)
+- [Wikipedia](https://en.wikipedia.org/wiki/Central_Park)
+- Kazil J. and Jarmul K, Data Wrangling with Python, Tips and Tools to Make Your Life Easier
+- [Yelp](https://www.yelp.com/developers/documentation/v3)
+- [Webscraping with Requests]((https://www.youtube.com/watch?v=vgHwPPRM5JE)
+- [Config files](https://www.youtube.com/watch?v=Gdw0-QGq-z0)
